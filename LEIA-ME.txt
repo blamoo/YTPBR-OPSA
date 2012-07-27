@@ -4,6 +4,18 @@ Projeto YTPBR - OPSA
 Significa PRERIGO. Brincadeira, significa "O Pacote de Scripts da Ave".
 Criativo, não?
 
+-- Como instalar e usar? --
+Copie os arquivos .cs dentro da pasta "Vegas Script Menu" (se necessário, crie-a)
+na pasta Meus Documentos, ou na pasta "Script Menu" na pasta de instalação do Vegas.
+
+-- Como usar? --
+Abra o Vegas, acesse "Tools > Scripting" e selecione o script desejado.
+Se o Vegas já estava aberto quando os aruqivos foram copiados, acesse
+"Tools > Scripting > Rescan Script Menu Folder" para atualizar a lista.
+Se mesmo assim os scripts não aparecerem na lista, tente copiar em uma das pastas
+alternativas de instalação ou use-os através da opção "Run Script...".
+Em último caso, entre em contato.
+
 -- Ajuda --
 	- Agrupar eventos de duas faixas.cs
 		- O que faz?
@@ -50,6 +62,24 @@ Criativo, não?
 			Criar um efeito de terremoto ou da instabilidade no movimento
 			de uma câmera empunhada.
 
+-- Perguntas frequentes --
+P: Como você tem uma lista de perguntas frequentes se acabou de lançar isso?
+R: Ok, eu menti. Só estou tentando prever peguntas simples...
+
+P: Arquivinho de ajuda feio... Pretende fazer um mais bonito?
+R: Pretendo fazer vídeos explicando o uso do pacote, ou um arquivo mais bonito
+   em HTML com formatação, imagens e coisas do tipo.
+
+P: Uso Vegas versão -30.0. Por que os scripts não funcionam?
+R: Os scripts foram testados e desenvolvidos no Vegas 10.0, e as mudanças no
+   motor de scripts não foram tão drásticas desde o Vegas 8.0. Se você tiver
+   algum problema de incompatibilidade, entre em contato.
+
+P: Faz um script de <insira algo aqui>
+R: Se os recursos do Vegas permitirem, sim. Entre em contato e sugira :)
+
+P: No céu tem pão?
+R: Câncer.
 
 -- Aviso --
 Scripts mal-intencionados podem danificar seu computador, pois podem
