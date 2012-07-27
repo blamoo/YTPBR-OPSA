@@ -75,7 +75,7 @@ R: Os scripts foram testados e desenvolvidos no Vegas 10.0, e as mudanças no
    motor de scripts não foram tão drásticas desde o Vegas 8.0. Se você tiver
    algum problema de incompatibilidade, entre em contato.
 
-P: Faz um script de <insira algo aqui>
+P: Faz um script de <insira algo aqui>?
 R: Se os recursos do Vegas permitirem, sim. Entre em contato e sugira :)
 
 P: No céu tem pão?
