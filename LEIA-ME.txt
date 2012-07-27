@@ -1,0 +1,71 @@
+Projeto YTPBR - OPSA
+
+-- O que significa OPSA --
+Significa PRERIGO. Brincadeira, significa "O Pacote de Scripts da Ave".
+Criativo, não?
+
+-- Ajuda --
+	- Agrupar eventos de duas faixas.cs
+		- O que faz?
+		Agrupa eventos em sequência em duas faixas selecionadas
+		em uma lista.
+		
+		- Exemplo de uso
+		Útil para recuperar o agrupamento das faixas de áudio e
+		vídeo de um MV.
+		
+	- Aplicar fade aos eventos selecionados.cs
+		- O que faz?
+			Aplica fade in e fade out a todos os eventos selecionados
+			no projeto.
+			
+		- Exemplo de uso
+			Aplicar um fade pequeno (de 10ms por exemplo) no início e no
+			final de um evento de áudio pode reduzir os "estalos" que
+			ocorrem entre um evento e outro.
+			
+	- Selecionar eventos pares nas faixas selecionadas.cs
+		- O que faz?
+			Seleciona todos os eventos pares nas faixas selecionadas.
+			
+		- Exemplo de uso
+			Criar aquele efeito de virar para um lado e para o outro,
+			muito utilizado em MVs.
+			
+	- Selecionar eventos ímpares nas faixas selecionadas.cs
+		- O que faz?
+			Mesmo efeito do script anterior, mas com eventos ímpares.
+		
+	- Tremer evento de vídeo selecionado.cs
+		- O que faz?
+			Cria keyframes aleatórios no primeiro evento selecionado
+			(de cima pra baixo, da esquerda para a direita no projeto).
+			Os valores aleatórios que podem ser alterados são: posição,
+			tamanho do quadro e rotação.
+			O script também permite definir a distância entre os keyframes
+			e aumentar/diminuir a intensidade das modificações ao longo do
+			evento.
+			
+		- Exemplo de uso
+			Criar um efeito de terremoto ou da instabilidade no movimento
+			de uma câmera empunhada.
+
+
+-- Aviso --
+Scripts mal-intencionados podem danificar seu computador, pois podem
+usar os mesmo recursos de uma aplicação baseada em .NET Framework.
+
+As versões disponibilizadas no endereço oficial (indicado no final
+desse arquivo) são seguras, desde que usadas sem nenhuma modificação.
+Mesmo assim, não me responsabilizo pelos efeitos do uso desses scripts.
+Se possível, salve seu projeto antes de usá-los.
+
+O código fonte dos scripts (arquivos com extensão .cs) pode ser lido
+com um editor de texto comum (Bloco de notas, Notepad++, Visual Studio).
+Caso tenha alguma experiência com desenvolvimento em linguagem C#, faça
+as modificações que achar necessárias nos scripts. Aceito sugestões.
+
+-- Contato --
+Email: blamooBR@gmail.com
+Twitter: twitter.com/_Blamoo
+Canal no Youtube: youtube.com/daruuza
