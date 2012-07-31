@@ -34,7 +34,7 @@
   <ItemGroup>
     <Reference Include="Sony.Vegas, Version=10.0.0.737, Culture=neutral, PublicKeyToken=3cda94b1926e6fbc, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Sony.Vegas.dll</HintPath>
+      <HintPath>C:\Arquivos de programas\Sony\Vegas Pro 10.0\Sony.Vegas.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -49,6 +49,9 @@
     <Compile Include="Agrupar eventos de duas faixas.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Selecionar eventos intercalados nas faixas selecionadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Selecionar eventos pares nas faixas selecionadas.cs" />
     <Compile Include="MainFormTemplate.cs">
       <SubType>Form</SubType>
@@ -60,17 +63,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Agrupar eventos de duas faixas.resx">
-      <DependentUpon>Agrupar eventos de duas faixas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Aplicar fade aos eventos selecionados.resx">
-      <DependentUpon>Aplicar fade aos eventos selecionados.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MainFormTemplate.resx">
-      <DependentUpon>MainFormTemplate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Tremer evento de vídeo selecionado.resx">
-      <DependentUpon>Tremer evento de vídeo selecionado.cs</DependentUpon>
+    <EmbeddedResource Include="Selecionar eventos intercalados nas faixas selecionadas.resx">
+      <DependentUpon>Selecionar eventos intercalados nas faixas selecionadas.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
