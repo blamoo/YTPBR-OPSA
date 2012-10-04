@@ -148,7 +148,7 @@ namespace QuickFade
             try
             {
                 double Inicio = Convert.ToDouble(textBoxIincio.Text);
-                double Fim = Convert.ToDouble(textBoxIincio.Text);
+                double Fim = Convert.ToDouble(textBoxFim.Text);
 
                 foreach (Track Track in MyVegas.Project.Tracks)
                 {

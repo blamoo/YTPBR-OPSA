@@ -10,7 +10,7 @@ Criativo, não?
 Como instalar?
 --------------
 
-Copie os arquivos .cs dentro de uma das pastas a seguir:
+Faça download da versão mais recente do pacote [nesse endereço](https://github.com/Blamoo/YTPBR-OPSA/zipball/master) e copie a pasta ytpbr-opsa em uma das pastas a seguir:
 
 	<Documentos>\Vegas Script Menu\ (se necessário, crie-a)
 	<Pasta de instalação do Vegas>\Script Menu
@@ -107,6 +107,9 @@ Os scripts foram testados e desenvolvidos no Vegas 10.0, e as mudanças no motor
 
 ##### Faz um script de &lt;alguma coisa&gt;?
 Se os recursos do Vegas permitirem, faço sim. Entre em contato e sugira :)
+
+##### O que são aqueles scripts na pasta "testes"?
+São scripts incompletos, instáveis, ou que ainda não têm uma interface amigável. Sinta-se à vontade para testá-los ou fuçar nos códigos fonte.
 
 ##### No céu tem pão?
 Piada interna, negativo.
